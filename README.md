@@ -1,4 +1,4 @@
-# open-source
-This is where i will store helpful files that have like cool stuff
+# semi-open-source
+This is where i will store helpful files/scripts
 
-Also don't just copy the script or whatever, change variables names and other stuff
+Also if you copy, change variables names and other stuff
