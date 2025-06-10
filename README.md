@@ -1,8 +1,7 @@
 # semi-open-source
 This is where i will store helpful files/scripts
 
-Also if you copy, change variables names and other stuff
-
+Please do not copy these, use them as an example/inspiration/solution for how you can make yours.
 ### Scripts/file descriptions:
 **ldap_cleanup.sh:** Removes all users and groups from your ldap directory, use with caution.
 
