@@ -1,4 +1,4 @@
-# semi-open-source
+# open-source
 This is where i will store helpful files/scripts
 
 Please do not copy these, use them as an example/inspiration/solution for how you can make yours.
